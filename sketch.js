@@ -15,6 +15,7 @@ function setup(){
 
     clefairy = loadImage("clefairy.png")
     togepi = loadImage("togepi.png")
+    backdrop = loadImage("e.png")
 }
 
 function draw(){
