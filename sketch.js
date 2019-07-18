@@ -19,7 +19,7 @@ function setup(){
 }
 
 function draw(){
-    background(0)
+    //background(0)
     image(backdrop,0,0,500,500)
     fill(255,0,0)
     image(togepi,enemyX,enemyY,enemyWidth,enemyHeight)
